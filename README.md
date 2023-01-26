@@ -10,5 +10,3 @@
 
 <span>:speech_balloon: Portfolio : portfolio-soheebae.web.app/</span>
 
-<span> :link: Linkedin : https://www.linkedin.com/in/sohee-bae-b37a9a166/
-
