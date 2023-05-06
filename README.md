@@ -1,16 +1,15 @@
-### Hi there 👋
+Hi there! 🐤 
 
-<!--
-**soheee-bae/soheee-bae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a frontend developer. </br>
+I am passionate about crafting websites, learning web technologies and frameworks! </br>
+I will always stay humble to continue grow.
 
-Here are some ideas to get you started:
+</br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+✉ Email : baesoheee@gmail.com
+
+🪧 Blog : https://soheee-bae.github.io/
+
+💬 Portfolio : https://portfolio-soheebae.web.app/
+
+🔗 Linkedin : https://www.linkedin.com/in/sohee-bae-b37a9a166/
