@@ -1,4 +1,8 @@
-Hi there! 🐤 
+![header](https://capsule-render.vercel.app/api?type=rect&color=8ba888&height=200&text=🌵🪴&section=header&fontSize=30)
+
+</br>
+
+Hi there! 👋
 
 I'm SoHee, a front-end developer. I'm passionate about crafting websites, and learning web technologies or frameworks. </br>
 I will always stay humble to continue to grow 🔥
