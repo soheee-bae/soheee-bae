@@ -18,6 +18,6 @@ I will always stay humble to continue to grow 🌱
 #### Contact 📞
 - Email : baesoheee@gmail.com
 - Blog : https://soheee-bae.github.io/
-- Portfolio : https://portfolio-soheebae.web.app/
+- Portfolio : https://soheebae-dev.web.app/
 - Linkedin : https://www.linkedin.com/in/sohee-bae-b37a9a166/
 
