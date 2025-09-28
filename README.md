@@ -1,10 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=rect&color=8ba888&height=200&text=🌵🪴&section=header&fontSize=30)
-
-</br>
-
 Hi there! 👋
 
-I'm SoHee, a front-end developer. I'm passionate about crafting websites, and learning web technologies or frameworks. </br>
+I'm SoHee. I'm passionate about crafting websites and learning web technologies or frameworks. </br>
 I will always stay humble to continue to grow 🌱
 
 #### About 🙋🏻‍♀️
@@ -19,5 +15,5 @@ I will always stay humble to continue to grow 🌱
 - Email : baesoheee@gmail.com
 - Blog : https://soheee-bae.github.io/
 - Portfolio : https://soheebae-dev.web.app/
-- Linkedin : https://www.linkedin.com/in/sohee-bae-b37a9a166/
+- Linkedin : [https://www.linkedin.com/in/sohee-bae-b37a9a166/](https://www.linkedin.com/in/bae-sohee-b37a9a166/)
 
