@@ -1,19 +1,16 @@
-Hi there! 👋
+### Hi, I'm Sohee! 👋
+**Frontend Developer** with 4.5+ years of experience creating scalable web applications.
 
-I'm SoHee. I'm passionate about crafting websites and learning web technologies or frameworks. </br>
-I will always stay humble to continue to grow 🌱
+* 🌏 **Adaptability:** Diverse global background with strong cross-cultural communication skills.
+* 🛠 **Tech Focus:** Obsessed with Clean Code, Component Reusability, and Scalability.
+* 🌱 **Mindset:** A lifelong learner who values consistency and continuous improvement.
+* ⚡ **Goal:** Solving complex problems through collaboration and readable code.
 
-#### About 🙋🏻‍♀️
-- [Me](https://soheedev.notion.site/2ef5ab86c81a4609b932a19126f0146f?pvs=4)
+#### 🙋🏻‍♀️ About 
+[Resume](https://soheedev.notion.site/2ef5ab86c81a4609b932a19126f0146f?pvs=4)
 
-#### Interest 👀
-- React
-- Next.js
-- TypeScript
+#### 👀 Interests
+`JavaScript` `TypeScript` `React` `Next.js` 
 
-#### Contact 📞
-- Email : baesohee28@gmail.com
-- Blog : https://soheee-bae.github.io/
-- Portfolio : https://soheebae-dev.web.app/
-- Linkedin : https://www.linkedin.com/in/%EC%86%8C%ED%9D%AC-%EB%B0%B0-b37a9a166/?locale=en_US
-
+#### 📞 Contact 
+[`📧 Email`](mailto:baesohee28@gmail.com) | [`🧺 Blog`](https://soheee-bae.github.io/) | [`💻 Portfolio`](https://soheebae-dev.web.app/) | [`🔗 LinkedIn`](https://www.linkedin.com/in/bae-sohee)
