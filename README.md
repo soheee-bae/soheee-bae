@@ -12,8 +12,8 @@ I will always stay humble to continue to grow 🌱
 - TypeScript
 
 #### Contact 📞
-- Email : baesoheee@gmail.com
+- Email : baesohee28@gmail.com
 - Blog : https://soheee-bae.github.io/
 - Portfolio : https://soheebae-dev.web.app/
-- Linkedin : [https://www.linkedin.com/in/sohee-bae-b37a9a166/](https://www.linkedin.com/in/bae-sohee-b37a9a166/)
+- Linkedin : https://www.linkedin.com/in/%EC%86%8C%ED%9D%AC-%EB%B0%B0-b37a9a166/?locale=en_US
 
