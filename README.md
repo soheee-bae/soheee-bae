@@ -1,13 +1,12 @@
-### Hi, I'm Sohee! 👋
-**Frontend Developer** with 4.5+ years of experience creating scalable web applications.
+### "Embracing change, proven by consistency."
 
-* 🌏 **Adaptability:** Diverse global background with strong cross-cultural communication skills.
-* 🛠 **Tech Focus:** Obsessed with Clean Code, Component Reusability, and Scalability.
-* 🌱 **Mindset:** A lifelong learner who values consistency and continuous improvement.
-* ⚡ **Goal:** Solving complex problems through collaboration and readable code.
+**Hello! I’m Sohee Bae 👋**,  a Frontend Developer with nearly 5 years of experience building scalable and maintainable web applications.
 
-#### 🙋🏻‍♀️ About 
-[Resume](https://soheedev.notion.site/2ef5ab86c81a4609b932a19126f0146f?pvs=4)
+Having lived abroad for many years, I’ve developed strong adaptability and the ability to navigate unfamiliar environments with confidence. I bring that same mindset into development—quickly learning new technologies and proactively solving problems.
+
+My philosophy is simple: write better code today than I did yesterday. I focus on clean code and component reusability to build products that are sustainable and easy for teams to maintain.
+
+I combine this technical discipline with strong communication skills, aiming to bridge the gap between complex problems and clear solutions. Ultimately, I strive to build services that not only delight users but are also a joy for developers to work on.
 
 #### 👀 Interests
 `JavaScript` `TypeScript` `React` `Next.js` 
